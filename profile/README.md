@@ -26,6 +26,3 @@ Here is the projects we have made:
 [![easy-rfp](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=easy-rfp)](https://github.com/UTokyo-FieldPhenomics-Lab/easy-rfp)
 
 ## Webpage Projects
-
-[![global-wheat.github.io](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=global-wheat.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-wheat.github.io)
-[![global-wheat.github.io](https://github-readme-stats.vercel.app/api/pin/?username=UTokyo-FieldPhenomics-Lab&repo=mlcas2023.github.io)](https://github.com/UTokyo-FieldPhenomics-Lab/global-wheat.github.io)
